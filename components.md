@@ -26,6 +26,7 @@
 
 - 5x [L293D Motor Driver IC](https://robu.in/product/l293d-powerdip-16-stepper-motor-controller-driver/?gclid=CjwKCAjw__ihBhADEiwAXEazJst9ExRVPp4p0RZQFMiy2-XOBA7HjM8qNhrJTnETW_tQk4U8YQzyaBoC2bwQAvD_BwE)
 - 5x [Zero PCB](https://www.electronicscomp.com/5x7-cm-double-sided-universal-pcb-india?gclid=CjwKCAjw__ihBhADEiwAXEazJtfy5PwjCVu4MOR4Q-RGstHMbJywSop-spuyKThlednjVMBzVsgTpxoCSyIQAvD_BwE)
+- MUX/DEMUX ICs
 - 20x [Male to Female Jumper Wires]()
 - 20x [Male to Male Jumper Wires]()
 - 20x [Female to Female Jumper Wires]()
