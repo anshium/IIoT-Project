@@ -18,9 +18,12 @@
 - 2x [LCD Decoder and Screen 16x2](https://www.electronicscomp.com/1602-blue-lcd-display-with-i2c-interface?gclid=CjwKCAjw__ihBhADEiwAXEazJqEUBrQ6dHHWvj-YfbuoqIn6LZJFFyW6HH8MeTr0sy5vKlvkbhKtsxoC5EQQAvD_BwE)
 - 2x [1 meter RGB LED Strip](https://robu.in/product/12v-rgb-5050-smd-led-strip-1meter/?gclid=CjwKCAjw__ihBhADEiwAXEazJt-mWjoVlu464POKPI1SZUVMVgeR75WSuSW1yxBYQXaIm15XTy-XXRoC70QQAvD_BwE)
 - [Assorted Gears](https://www.electronicscomp.com/gears-assorted-kit-for-diy-robotics-and-household-repair-75-pieces-pack?gclid=CjwKCAjw__ihBhADEiwAXEazJgYuUDN2qj3JSfNe1IOwR4YM1cD-B0L5O4mdFkIGlHdIJwjv3a82IBoCfdAQAvD_BwE)
+- 7x [Small DC Motors](https://robu.in/product/dc3-6v-130-diy-toy-motor-2-pcs/?gclid=CjwKCAjw__ihBhADEiwAXEazJi83j8PxaDw2rDiDsolglozFABW4BKAOFYGPQ0ALiXrLcQOTu8B2xhoCX7UQAvD_BwE)
 
 ### Other Electronic Components
 
+- 5x [L293D Motor Driver IC](https://robu.in/product/l293d-powerdip-16-stepper-motor-controller-driver/?gclid=CjwKCAjw__ihBhADEiwAXEazJst9ExRVPp4p0RZQFMiy2-XOBA7HjM8qNhrJTnETW_tQk4U8YQzyaBoC2bwQAvD_BwE)
+- 5x [Zero PCB](https://www.electronicscomp.com/5x7-cm-double-sided-universal-pcb-india?gclid=CjwKCAjw__ihBhADEiwAXEazJtfy5PwjCVu4MOR4Q-RGstHMbJywSop-spuyKThlednjVMBzVsgTpxoCSyIQAvD_BwE)
 - 20x [Male to Female Jumper Wires]()
 - 20x [Male to Male Jumper Wires]()
 - 20x [Female to Female Jumper Wires]()
