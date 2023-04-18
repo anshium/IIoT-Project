@@ -22,10 +22,11 @@
 - 20x [Male to Female Jumper Wires]()
 - 20x [Male to Male Jumper Wires]()
 - 20x [Female to Female Jumper Wires]()
+- 2x [5 meters single core wire](https://www.electronicscomp.com/single-strand-hookup-wire-22awg-red-5metre?gclid=CjwKCAjw__ihBhADEiwAXEazJpYfELl53TarqjwvYPAsWdXGhEJbXRFhz9duGUYTibZerja039ZRcBoCf2wQAvD_BwE)
 
 ### Building Material
 
 - PVC Pipes (dimensions to depend on the size)
 - [3D Printing Filament](https://robu.in/product/orange-pla-1-75mm-3d-printing-filament-1kg-orange/?gclid=CjwKCAjw__ihBhADEiwAXEazJoGql3d6Lfwn0Y1U6L55bCVF8aOwuxbZ7NjiLi_VPTbUUlnP-PBefBoCJpYQAvD_BwE)
 - [MDF Board](https://www.amazon.in/Vnockd-Boards-Craft-Sheets-Cutouts/dp/B0C1VSNV64/ref=sr_1_7?keywords=mdf+board&qid=1681841434&sr=8-7) Few more sheets may be needed in the future.
-- 
+- Cardboard
