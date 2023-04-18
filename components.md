@@ -16,6 +16,7 @@
 - 2x [1m Water Hose Pipe](https://robu.in/product/1m-long-water-pipe/?gclid=CjwKCAjw__ihBhADEiwAXEazJlHFdvrNcpKqEWU8A3XatWRXluHTWKYrWqgICcaWsJfqM4Tf1olG8RoCOt8QAvD_BwE)
 - 2x [DC Water Motor Pump](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwik1ezdgbT-AhVZeYsKHRTnC9kYABANGgJ0bQ&ohost=www.google.com&cid=CAESbOD2Ygb97gIwbv9ZbthdYbAm9REoVsyqFzkdEYlcuqUUn9XIimqjfpk8zAryM4ksChbWayPHi89kAhFx_JhYCpIaI94xKqZAMx_q-hotSxoaHW-t534Qe8D3LEIUq1W9Cfi_E7BKzZ-O82cN6w&sig=AOD64_3X5MqTOwlT5bKHUDKpKQBneijAsQ&ctype=5&q=&ved=2ahUKEwjDxeXdgbT-AhWJHnAKHUynCA4Q9aACKAB6BAgGEFQ&adurl=)
 - 2x [LCD Decoder and Screen 16x2](https://www.electronicscomp.com/1602-blue-lcd-display-with-i2c-interface?gclid=CjwKCAjw__ihBhADEiwAXEazJqEUBrQ6dHHWvj-YfbuoqIn6LZJFFyW6HH8MeTr0sy5vKlvkbhKtsxoC5EQQAvD_BwE)
+- 2x [1 meter RGB LED Strip](https://robu.in/product/12v-rgb-5050-smd-led-strip-1meter/?gclid=CjwKCAjw__ihBhADEiwAXEazJt-mWjoVlu464POKPI1SZUVMVgeR75WSuSW1yxBYQXaIm15XTy-XXRoC70QQAvD_BwE)
 
 ### Other Electronic Components
 
