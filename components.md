@@ -5,6 +5,7 @@
 - 100x [LDR](https://robu.in/product/5mm-ldr-pack-of-10/?gclid=CjwKCAjw__ihBhADEiwAXEazJixNq5xv3DbSDX1iDNG7A5b2q2p2JCa0yU0tIpDyg-SaKPruGuAX8RoCFiIQAvD_BwE)
 - 4x [Ultrasonic Sensors](https://robu.in/product/hc-sr04-ultrasonic-range-finder/)
 - 10x [IR Sensors](https://www.electronicscomp.com/ir-sensor-module-india?gclid=CjwKCAjw__ihBhADEiwAXEazJuD28ESn5QRLVWJhKdeoq9BVftGAQMrjv8q3-aK3qNQ5VmXGDpWGdRoCnCoQAvD_BwE)
+- 2x [Thermister Temperature Sensons](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2zvHbirT-AhUUtJYKHYHKCZkYABAJGgJ0bA&ohost=www.google.com&cid=CAESbOD2gDCQVjHgDqzFvn0aPYl0d5Srsnxp7d4no7dD6uESLd-wMfYES2NXB-qoC4nhJdoBVAcD_bJX3uIEoycYbAei076z56NFmU67m_40LOMsa5qtgyovZHN7y9L8JNLl5WuCD4na64oZKC36IA&sig=AOD64_2fhhVZ_2J2POfJVnnMKPoJe2wQFw&ctype=5&q=&ved=2ahUKEwiX2ubbirT-AhXBgFYBHX4oBbMQ9aACKAB6BAgEEEc&adurl=)
 
 ### Actuators
 
