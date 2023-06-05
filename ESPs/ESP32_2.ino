@@ -43,6 +43,10 @@ HTTPClient http;
 
 PubSubClient mqttClient(server, 1883, myClient);
 
+// led pins
+int red = 5;
+int yellow = 18;
+int green = 19;
 
 unsigned long getTime() {
   time_t now;
@@ -69,6 +73,13 @@ void setup() {
   for (int i = 0; i < 6; i++) {
     pinMode(inputPins[i], INPUT);
   }
+
+  pinMode(red, OUTPUT);
+  pinMode(yellow, OUTPUT);
+  pinMode(green, OUTPUT);
+  digitalWrite(red, LOW);
+  digitalWrite(yellow, LOW);
+  digitalWrite(green, LOW);
 }
 
 
@@ -84,12 +95,21 @@ int values[N];
 void loop() {
   // Start calibrating
   if (calibrate) {
+    digitalWrite(red, HIGH);
+    digitalWrite(yellow, LOW);
+    digitalWrite(green, LOW);
+    Serial.println("Starting to Calibrate. Cover the ESP32s.");
+   
     delay(5000);  // Wait 5 seconds to reset all esp32s
 
     for (int i = 0; i < N; i++) {
       minValues[i] = analogRead(inputPins[i]);
     }
-
+    delay(20);
+    Serial.println("Remove the Cover.");
+    digitalWrite(red, LOW);
+    digitalWrite(yellow, HIGH);
+    digitalWrite(green, LOW);
     delay(5000);  // 5 seconds to remove the cloth
     for (int i = 0; i < N; i++)
       maxValues[i] = analogRead(inputPins[i]);
@@ -97,6 +117,11 @@ void loop() {
     for (int i = 0; i < N; i++)
       avgValues[i] = (maxValues[i] + minValues[i]) / 2;
 
+    digitalWrite(red, LOW);
+    digitalWrite(yellow, LOW);
+    digitalWrite(green, HIGH);
+    Serial.println("Calibration Done.");
+    delay(1000);
     calibrate = 0;
   }
 
