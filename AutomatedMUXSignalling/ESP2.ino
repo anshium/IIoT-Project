@@ -21,9 +21,9 @@ char writeAPIKey[] = "N52JQQ3SXWEFXHHR";
 WiFiClient myClient;
 PubSubClient mqttClient(server, 1883, myClient);
 
-int red = 12;
-int yellow = 14;
-int green = 27;
+int red = 5;
+int yellow = 18;
+int green = 19;
 
 void setup() {
   Serial.begin(9600);
