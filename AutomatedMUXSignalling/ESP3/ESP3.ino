@@ -25,6 +25,10 @@ int red = 12;
 int yellow = 14;
 int green = 27;
 
+int mode_ = 0;
+
+int pb = 34;
+
 void setup() {
   Serial.begin(9600);
   WiFi.begin(ssid, password);
@@ -57,6 +61,8 @@ void setup() {
   digitalWrite(red, LOW);
   digitalWrite(yellow, LOW);
   digitalWrite(green, LOW);
+
+  pinMode(pb, INPUT);
 }
 
 int do_ = 0;
@@ -73,7 +79,10 @@ void loop() {
     Serial.println("MQTT Connected!");
     do_ += 1;
   }
-//   put your main code here, to run repeatedly:
+  if(digitalRead(pb)){
+    mode_ = 1;
+    }
+if(mode_ == 1){
   for(int mux = 0; mux < 2; mux++){
     int readPin = readPins[mux];
     for(int j = 0; j < 8; j++){
@@ -98,7 +107,12 @@ void loop() {
 //  }
   String sensorData = "";
   for(int i = 0; i < 16; i++){
-    sensorData += String(Data[i]) + ",";
+    int a = (int)Data[i];
+    String s = String(a);
+    while(s.length() < 3){
+      s = '0' + s;
+    }
+    sensorData += s + ",";
   }
   Serial.println(sensorData);
   String dataString = "field1=" + sensorData;
@@ -107,4 +121,6 @@ void loop() {
   mqttClient.publish( topicString.c_str(), dataString.c_str() );
 
   delay(80);
+  mode_ = 0;
+}
 }
